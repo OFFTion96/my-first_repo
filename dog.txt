@@ -1,3 +1,9 @@
 my_dog
 my_dog
+<<<<<<< HEAD
+=======
+my_dog
+my_dog
+my_dog
+>>>>>>> thirds
 my_dog
